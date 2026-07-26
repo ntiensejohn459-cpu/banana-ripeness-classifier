@@ -19,8 +19,7 @@ def predict(model, pil_image):
     return label, prob_green * 100, prob_yellow * 100
 
 st.title("🍌 Banana Ripeness Classifier")
-st.write("Upload a banana image to check if it's green (unripe) or yellow (ripe).")
-
+st.write("Upload a photo of a banana and this AI model — a MobileNetV3Small transfer learning model trained for GET 324 (Group CV12) — will predict whether it looks green (unripe) or yellow (ripe).")
 model = load_model()
 uploaded_file = st.file_uploader("Upload a banana image", type=["jpg", "jpeg", "png"])
 
