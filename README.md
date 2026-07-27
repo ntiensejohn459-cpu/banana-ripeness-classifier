@@ -34,7 +34,7 @@ MobileNetV3Small (transfer learning), fine-tuned by unfreezing the top layers of
 ## Contributors
 - [Name: JOHN, NTIENSE UWEM [Reg No: 23/EG/CV/035 — GitHub: ntiensejohn459-cpu
 - [Name: AKWAOWO, DIVINE UDEME [Reg No: 23/EG/CV/045 — GitHub: Didee968
-- [Name: YOUR NAME [Reg No: YOUR REG.NO — GitHub: YOUR GITHUB USERNAME
+- [Name: ASUQUO, GODSPOWER RAPHAEL [Reg No: 23/EG/CV/055 — GitHub: LordGp7 
 - [Name: YOUR NAME [Reg No: YOUR REG.NO — GitHub: YOUR GITHUB USERNAME-
 - [Name: YOUR NAME [Reg No: YOUR REG.NO — GitHub: YOUR GITHUB USERNAME
 - [Name: YOUR NAME [Reg No: YOUR REG.NO — GitHub: YOUR GITHUB USERNAME
