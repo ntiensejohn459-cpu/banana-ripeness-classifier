@@ -36,6 +36,6 @@ MobileNetV3Small (transfer learning), fine-tuned by unfreezing the top layers of
 - [Name: AKWAOWO, DIVINE UDEME [Reg No: 23/EG/CV/045 — GitHub: Didee968
 - [Name: ASUQUO, GODSPOWER RAPHAEL [Reg No: 23/EG/CV/055 — GitHub: LordGp7 
 - [Name: ASUAIKO, UBONG-ABASI MOSES [Reg No: 23/EG/CV/075 — GitHub: Asuaiko
-- [Name: YOUR NAME [Reg No: YOUR REG.NO — GitHub: YOUR GITHUB USERNAME
+- [Name: JAMES, VICTOR AKAN [Reg No: 23/EG/CV/005 — GitHub: victorsgramm
 - [Name: YOUR NAME [Reg No: YOUR REG.NO — GitHub: YOUR GITHUB USERNAME
 - [Name: YOUR NAME [Reg No: YOUR REG.NO — GitHub: YOUR GITHUB USERNAME
