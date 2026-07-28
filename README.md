@@ -2,8 +2,6 @@
 
 A binary image classifier that detects whether a banana is Green (Unripe) or Yellow (Ripe), built for GET 324 (AI/ML) mini-project.
 
-## Live App
-[Add your Streamlit link here]
 
 ## Dataset
 Banana Ripeness Classification Dataset (Kaggle, by S.M. Shahriar) — filtered to the "unripe" (green) and "ripe" (yellow) classes only.
@@ -23,8 +21,10 @@ MobileNetV3Small (transfer learning), fine-tuned by unfreezing the top layers of
 
 ## Limitations & Future Improvements
 - The model assumes every uploaded image is a banana and will still output a prediction for non-banana images.
+-  Performance decreases on images with unusual backgrounds or lighting compared to the plain, studio-style backgrounds common in the training 
 - Complex images (e.g., multiple bunched bananas) are harder to classify correctly than single bananas.
 - Future work could include a more visually diverse training set, HSV-based color preprocessing, or a rejection mechanism for invalid/non-banana inputs.
+dataset.
 
 ## Files
 - `app.py` — Streamlit application
