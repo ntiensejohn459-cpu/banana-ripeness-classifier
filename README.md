@@ -38,5 +38,5 @@ dataset.
 - [Name: ASUAIKO, UBONG-ABASI MOSES [Reg No: 23/EG/CV/075 — GitHub: Asuaiko
 - [Name: JAMES, VICTOR AKAN [Reg No: 23/EG/CV/005 — GitHub: victorsgramm
 - [Name: EKPENYONG, MICHAEL UDUAK [Reg No: YOUR REG.NO 23/EG/CV/065 — GitHub: michaelekpenyong71-droid
-- [Name: YOUR NAME [Reg No: YOUR REG.NO — GitHub: YOUR GITHUB USERNAME
+- [Name: SMITH, JOSHUA UDEME [Reg No: 23/EG/CV/015 — GitHub: smithjr2006joshua-dot
 - [Name: YOUR NAME [Reg No: YOUR REG.NO — GitHub: YOUR GITHUB USERNAME
