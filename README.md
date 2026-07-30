@@ -37,5 +37,5 @@ dataset.
 - [Name: ASUQUO, GODSPOWER RAPHAEL [Reg No: 23/EG/CV/055 — GitHub: LordGp7 
 - [Name: ASUAIKO, UBONG-ABASI MOSES [Reg No: 23/EG/CV/075 — GitHub: Asuaiko
 - [Name: JAMES, VICTOR AKAN [Reg No: 23/EG/CV/005 — GitHub: victorsgramm
-- [Name: YOUR NAME [Reg No: YOUR REG.NO — GitHub: YOUR GITHUB USERNAME
+- [Name: EKPENYONG, MICHAEL UDUAK [Reg No: YOUR REG.NO 23/EG/CV/065 — GitHub: michaelekpenyong71-droid
 - [Name: YOUR NAME [Reg No: YOUR REG.NO — GitHub: YOUR GITHUB USERNAME
